@@ -5,7 +5,7 @@ Analizar con Python las mediciones de temperatura y vibración de sensores insta
 
 
 ## Descripción de los datos
-Archivo: `data/sensores_industriales.csv` (100,000 mediciones, una por minuto por sensor).
+Archivo: `data/sensores_industriales.csv` (100,000 mediciones, una por minuto por sensor). **Los datos son simulados** (ejercicio académico).
 
 | Columna | Significado |
 |---|---|
