@@ -22,7 +22,7 @@ data/                   CSV original
 resultados/alertas.csv  Lecturas con temperatura > 85 °C
 evidencias/             Captura de reproducibilidad
 analisis.py             Programa de análisis
-informe.md              Respuestas de la Parte II
+respuestas.md              Respuestas de la Parte II
 requirements.txt        Dependencias con versiones
 ```
 
